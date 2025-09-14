@@ -1,2 +1,23 @@
-# Time-and-series-project-S-P-500-stock-market-case-study-
-This project analyzes S&amp;P 500 stock data using Python to explore trends, patterns, and correlations across major tech companies. It includes visualization of closing prices, moving averages, daily returns, and resampled time-series data, along with statistical insights and heatmaps.
+Stock Analysis Dashboard
+
+An interactive Streamlit dashboard to analyze major tech stocks (Apple, Amazon, Google, Microsoft) using historical price data. The app provides simple time-series analysis, technical indicators, and visual insights for better understanding of stock trends.
+
+🚀 Features
+
+📊 Interactive closing price charts over time
+
+📈 Moving averages (10, 20, 50 days)
+
+📉 Daily returns percentage
+
+🗓️ Resampled data (Monthly, Quarterly, Yearly)
+
+🔥 Correlation heatmap of multiple companies
+
+🛠️ Tech Stack
+
+Python: Pandas, NumPy
+
+Streamlit: Interactive dashboard
+
+Plotly, Matplotlib, Seaborn: Visualizations
